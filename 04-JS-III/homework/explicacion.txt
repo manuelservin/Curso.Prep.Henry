@@ -1,0 +1,1 @@
+Un array es como una matriz que almacena datos, esos datos pueden ser o no del mismo tipo.
