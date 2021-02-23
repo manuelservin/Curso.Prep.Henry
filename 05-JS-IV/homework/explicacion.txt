@@ -1,0 +1,17 @@
+los objetos son una forma de programar como si fuese en la vida real
+
+las propiedades son los valores que tiene cada uno de los objetos
+pj: si el objeto es un auto, sus propiedades seriam (color,marca,tamaño)
+
+los metodos son funciones que se encuentran dentro de los objetos
+
+el bucle for.. in me permite recorrer las propiedades dentro de cada objeto
+
+notacion de puntos es una forma de acceder a las propiedades de un objeto
+pj= el objeto es un auto y quiero averiguar  su color
+
+auto.color
+
+la notacion de corchetes cumple la misma funcion que la de notacion de puntos
+
+auto['color']
