@@ -1,0 +1,6 @@
+prototype ayuda a ahorrar muchas lineas de codigo.
+    te permite crear una funcion y llamarla desde cualquier lugar
+
+constructors de clases  es un metodo especual que se ejecuta automaticamente
+cuando se utiliza new de dicha clase. una clase solo puede tener un constructorsy en el 
+caso que no lo tenga, tendra uno vacio de fomra implicita
