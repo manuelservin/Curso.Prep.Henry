@@ -1,0 +1,3 @@
+se llama funciones callbacks a funciones que reciben como argumento otra funcion
+cuando ejecuto una funcion 1, llamo a una funcion 2, esta me devuelve un valor y la funcion 1 
+es la que me lo devuelve.
